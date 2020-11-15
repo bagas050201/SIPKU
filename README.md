@@ -45,11 +45,24 @@ User dapat melakukan presensi acara yang sedang diikuti hanya dengan sekali klik
 * Riwayat Kehadiran
 User dapat dengan mudah melihat riwayat kehadirannya pada acara organisasi KPM yang telah dia ikuti.
 
-## Use Case ##
+## Use Case Diagram ##
+<p align="center"> 
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/SIPKU%20Use%20Case%20.jpg" align="center" height="700"></img>
+</p>
 
-## Activity Diagram  ##
+## Flow Chart ##
 
-### Anggota ###
+### User ###
+* User Mengisi Kehadiran
+
+<p align="center"> 
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/flow%20chart%20user%20mengisi%20kehadiran.jpg" align="center" height="700"></img>
+</p>
+
+* User mengedit Profil
+<p align="center"> 
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/flow%20chart%20user%20edit%20profil.jpg" align="center" height="700"></img>
+</p>
 
 ### Admin ###
 
