@@ -13,7 +13,11 @@
     <img src="http://www.kpmunj.org/wp-content/uploads/2018/10/LOGO_KPM_UNJ_2018.png" height="300" align="center"></img>
 </p>
 
-<h4 align="center"> SIPKU adalah sistem presensi berbasis website yang memiliki fungsi untuk melakukan presensi secara mudah tanpa perlu mengisi form presensi yang biasanya diberikan disela-sela agenda acara yang sedang anda ikuti. </h4>
+<h4 align="center"> 
+SIPKU adalah sistem presensi berbasis website yang memiliki fungsi untuk melakukan presensi secara mudah tanpa perlu mengisi form presensi yang biasanya diberikan disela-sela agenda acara yang sedang anda ikuti. 
+<br>
+<br>
+</h4>
 
 
 ## why SIPKU? ##
@@ -72,5 +76,5 @@ User dapat dengan mudah melihat riwayat kehadirannya pada acara organisasi KPM y
 
 ### Admin ###
 
-### Anggota ###
+### User ###
 
