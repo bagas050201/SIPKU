@@ -10,7 +10,7 @@
 <h1 align="center"> SIPKU / Sistem Presensi KPM UNJ </h1> 
 <h3 align="center"> Presensi mudah tanpa perlu ribet isi form! </h3>
 <p align="center"> 
-    <img src="http://www.kpmunj.org/wp-content/uploads/2018/10/LOGO_KPM_UNJ_2018.png" align="center" height="300"></img>
+    <img src="http://www.kpmunj.org/wp-content/uploads/2018/10/LOGO_KPM_UNJ_2018.png" height="300" align="center"></img>
 </p>
 
 <h4 align="center"> SIPKU adalah sistem presensi berbasis website yang memiliki fungsi untuk melakukan presensi secara mudah tanpa perlu mengisi form presensi yang biasanya diberikan disela-sela agenda acara yang sedang anda ikuti. </h4>
@@ -47,7 +47,7 @@ User dapat dengan mudah melihat riwayat kehadirannya pada acara organisasi KPM y
 
 ## Use Case Diagram ##
 <p align="center"> 
-    <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/SIPKU%20Use%20Case%20.jpg" align="center" height="700"></img>
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/SIPKU%20Use%20Case%20.jpg" height="700" align="center"></img>
 </p>
 
 ## Flow Chart ##
@@ -56,12 +56,12 @@ User dapat dengan mudah melihat riwayat kehadirannya pada acara organisasi KPM y
 * User Mengisi Kehadiran
 
 <p align="center"> 
-    <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/flow%20chart%20user%20mengisi%20kehadiran.jpg" align="center" height="900"></img>
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/flow%20chart%20user%20mengisi%20kehadiran.jpg" height="1000" align="center"></img>
 </p>
 
 * User mengedit Profil
 <p align="center"> 
-    <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/flow%20chart%20user%20edit%20profil.jpg" align="center" height="900"></img>
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/flow%20chart%20user%20edit%20profil.jpg" height="1000" align="center"></img>
 </p>
 
 ### Admin ###
