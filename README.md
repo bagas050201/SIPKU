@@ -23,13 +23,13 @@ Tujuan kami membuat SIPKU adalah ingin membantu para pengurus organisasi untuk m
 
 ## Feature :star2: ##
 
-SIPKU menawarkan fitur yang dapat digunakan berdasarkan peran akun yang mengaksesnya. Pada SIPKU memiliki dua tipe akun yaitu admin dan Anggota.
+SIPKU menawarkan fitur yang dapat digunakan berdasarkan peran akun yang mengaksesnya. Pada SIPKU memiliki dua tipe akun yaitu admin dan User.
 
 ### Admin ###
 
 * 
 
-### Anggota ###
+### User ###
 
 - [x] Melihat agenda acara apa saja yang sedang dan akan diadakan oleh organisasinya.
 - [x] Melihat agenda acara apa saja yang telah dia ikuti.
