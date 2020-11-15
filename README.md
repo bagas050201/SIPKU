@@ -56,12 +56,12 @@ User dapat dengan mudah melihat riwayat kehadirannya pada acara organisasi KPM y
 * User Mengisi Kehadiran
 
 <p align="center"> 
-    <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/flow%20chart%20user%20mengisi%20kehadiran.jpg" align="center" height="700"></img>
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/flow%20chart%20user%20mengisi%20kehadiran.jpg" align="center" height="900"></img>
 </p>
 
 * User mengedit Profil
 <p align="center"> 
-    <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/flow%20chart%20user%20edit%20profil.jpg" align="center" height="700"></img>
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/flow%20chart%20user%20edit%20profil.jpg" align="center" height="900"></img>
 </p>
 
 ### Admin ###
