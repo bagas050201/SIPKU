@@ -7,9 +7,8 @@
   2. Adi Rahman (1313618037)
   3. Moh. Falend Wandamen (1313618027)
 
-# SIPKU / Sistem Presensi KPM UNJ
-
-Presensi mudah tanpa perlu ribet isi form!
+<h1 align="center"> SIPKU / Sistem Presensi KPM UNJ </h1> 
+<h4 align="center"> Presensi mudah tanpa perlu ribet isi form! </h4>
 
 SIPKU adalah sistem presensi berbasis website yang memiliki fungsi untuk melakukan presensi secara mudah tanpa perlu mengisi form presensi yang biasanya diberikan disela-sela agenda acara yang sedang anda ikuti.
 
