@@ -42,15 +42,15 @@ SIPKU menawarkan fitur yang dapat digunakan berdasarkan peran akun yang mengakse
 
 * Lihat Acara
 
-User dapat melihat agenda acara apa saja yang sedang dan akan diadakan oleh organisasi KPM.
+    User dapat melihat agenda acara apa saja yang sedang dan akan diadakan oleh organisasi KPM.
 
 * Daftar Kehadiran
 
-User dapat melakukan presensi acara yang sedang diikuti hanya dengan sekali klik.
+    User dapat melakukan presensi acara yang sedang diikuti hanya dengan sekali klik.
 
 * Riwayat Kehadiran
 
-User dapat dengan mudah melihat riwayat kehadirannya pada acara organisasi KPM yang telah dia ikuti.
+    User dapat dengan mudah melihat riwayat kehadirannya pada acara organisasi KPM yang telah dia ikuti.
 
 ## Use Case Diagram ##
 <p align="center"> 
