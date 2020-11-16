@@ -61,25 +61,6 @@ SIPKU menawarkan fitur yang dapat digunakan berdasarkan peran akun yang mengakse
     <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/SIPKU%20Use%20Case%20.jpg" height="700" align="center"></img>
 </p>
 
-## Flow Chart ##
-
-<h2 align="center"> User </h2>
-
-#### 1. User Mengisi Kehadiran ####
-
-<p align="center"> 
-    <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/flow%20chart%20user%20mengisi%20kehadiran.jpg" height="1000" align="center"></img>
-</p>
- 
-#### 2. User Mengedit Profile ####
-
-<p align="center"> 
-    <img src="https://github.com/bagas050201/SIPKU/blob/main/diagram/flow%20chart%20user%20edit%20profil.jpg" height="1000" align="center"></img>
-</p>
-
-<h2 align="center"> Admin </h2>
-
-## Entity Relationship Diagram ##
 
 ## Tampilan Design ##
 
