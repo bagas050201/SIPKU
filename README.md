@@ -19,6 +19,10 @@ SIPKU adalah sistem presensi berbasis website yang memiliki fungsi untuk melakuk
 <br>
 </h4>
 
+## Latar Belakang ##
+KPM (Kelompok Peneliti Muda) adalah Unit Kegiatan Mahasiswa yang bergerak dalam bidang keilmiahan berbasis penalaran dan penelitian yang ada di Universitas Negeri Jakarta (UNJ). KPM UNJ memiliki berbagai kegiatan, seperti kegiatan nalar ilmiah (nalari), training of trainer (tot), pengabddian masyarakat, expo, program pendanaan penelitian, dan seminar hasil penelitian KPM UNJ. Saat ini KPM UNJ memiliki jumlah pengurus sebanyak 63 orang dengan 4 divisi yang membaginya. Setiap divisi memiliki anggota sebanyak 13 orang. KPM UNJ sendiri memiliki jumlah anggota lebih dari 300 orang yang terdiri dari 4 angkatan.
+
+KPM UNJ memiliki website pribadi yang mana bisa kamu akses [disini](http://www.kpmunj.org/) yang mana pada website KPM hanya digunakan sebatas pengenalan KPM. Dari sisi menjalankan keorganisasiaannya, KPM sendiri masih menggunakan pendekatan manual dalam menjalankan kegiatannya. Seperti pengerjaan administrasi, perancangan serta pelaksanaan program kerja. Hal ini menyebabkan permasalahan tersendiri dari setiap kepengurusan KPM, dimana pengelolaan data serta penyusuhan Laporan Pertanggung Jawaban Akhir kepengurusan menjadi lebih sulit. Masalah utama yang selalu dihadapi oleh organisasi KPM dari tahun ke tahun adalah masalah pendataan presensi. Dikarenakan KPM sendiri memiliki program kerja yang cukup banyak, dimana setiap anggota organisasi KPM diharapkan selalu mengikuti rangkaian agenda program kerja yang telah KPM buat. Pada titik ini, pengurus kepanitiaan program kerja tersebut mendapat masalah yang terlihat jelas, dimana mereka akan kesulitan melakukan pendataan presensi seluruh anggota KPM yang menghadiri agenda program kerja tersebut.
 
 ## why SIPKU? ##
 
