@@ -1,4 +1,4 @@
-## Assignment 3 HCI 
+## Assignment 3 HCI
 - - - -
 Research Methodologies : [Report](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw3)
 ## TEAM I ##
