@@ -34,7 +34,7 @@ Tujuan kami membuat SIPKU adalah ingin membantu para pengurus organisasi untuk m
 
 ## Feature :star2: ##
 
-SIPKU menawarkan fitur yang dapat digunakan berdasarkan peran akun yang mengaksesnya. Pada SIPKU memiliki dua tipe akun yaitu admin dan User. SIPKU sendiri menggunakan pendekatan dimana admin yang memegang kendali penuh siapa saja yang dapat mengakses website SIPKU. Nantinya admin dapat melakukan pembuatan akun untuk seluruh anggota KPM UNJ sehingga dapat meningkatkan integritas serta memetakan penggunaan website yang lebih terstruktur. Kamu bisa melihat hal serupa pada website [Siakad UNJ](http://siakad.unj.ac.id/)
+SIPKU menawarkan fitur yang dapat digunakan berdasarkan peran akun yang mengaksesnya. Pada SIPKU memiliki dua tipe akun yaitu admin dan User. SIPKU sendiri menggunakan pendekatan dimana admin yang memegang kendali penuh siapa saja yang dapat mengakses website SIPKU. Nantinya admin dapat melakukan pembuatan akun untuk seluruh anggota KPM UNJ sehingga dapat meningkatkan integritas serta memetakan penggunaan website yang lebih terstruktur. Kamu bisa melihat hal yang serupa pada website [Siakad UNJ](http://siakad.unj.ac.id/).
 
 ### Admin ###
 
