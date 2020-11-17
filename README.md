@@ -62,7 +62,7 @@ SIPKU menawarkan fitur yang dapat digunakan berdasarkan peran akun yang mengakse
 </p>
 
 
-## Tampilan Design ##
+## Desain Kontrol ##
 
 ### Admin ###
 
