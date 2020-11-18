@@ -75,7 +75,7 @@ SIPKU menawarkan fitur yang dapat digunakan berdasarkan peran akun yang mengakse
 
 ### User ###
 
-### Contributors ###
+## Contributors ##
 
 * **Muhammad Bagas Pradana** - *Ilmu Komputer Universitas Negeri Jakarta* - [bagas050201](https://github.com/bagas050201)
 * **Adi Rahman** - *Ilmu Komputer Universitas Negeri Jakarta* - [adirhmn](https://github.com/adirhmn)
