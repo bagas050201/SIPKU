@@ -20,21 +20,28 @@ SIPKU adalah sistem presensi berbasis website yang memiliki fungsi untuk melakuk
 </h4>
 
 ## Latar Belakang ##
+<p align="justify">
 KPM (Kelompok Peneliti Muda) adalah Unit Kegiatan Mahasiswa yang bergerak dalam bidang keilmiahan berbasis penalaran dan penelitian yang ada di Universitas Negeri Jakarta (UNJ). KPM UNJ memiliki berbagai kegiatan, seperti kegiatan nalar ilmiah (nalari), training of trainer (tot), pengabddian masyarakat, expo, program pendanaan penelitian, dan seminar hasil penelitian KPM UNJ. Saat ini KPM UNJ memiliki jumlah pengurus sebanyak 63 orang dengan 4 divisi yang membaginya. Setiap divisi memiliki anggota sebanyak 13 orang. KPM UNJ sendiri memiliki jumlah anggota lebih dari 300 orang yang terdiri dari 4 angkatan.
+</p>
 
+<p align="justify">
 KPM UNJ memiliki website pribadi yang mana bisa kamu akses [disini](http://www.kpmunj.org/) yang mana pada website KPM hanya digunakan sebatas pengenalan KPM. Dari sisi menjalankan keorganisasiaannya, KPM sendiri masih menggunakan pendekatan manual dalam menjalankan kegiatannya. Seperti pengerjaan administrasi, perancangan serta pelaksanaan program kerja. Hal ini menyebabkan permasalahan tersendiri dari setiap kepengurusan KPM, dimana pengelolaan data serta penyusuhan Laporan Pertanggung Jawaban Akhir kepengurusan menjadi lebih sulit. Masalah utama yang selalu dihadapi oleh organisasi KPM dari tahun ke tahun adalah masalah pendataan presensi. Dikarenakan KPM sendiri memiliki program kerja yang cukup banyak, dimana setiap anggota organisasi KPM diharapkan selalu mengikuti rangkaian agenda program kerja yang telah KPM buat. Pada titik ini, pengurus kepanitiaan program kerja tersebut mendapat masalah yang terlihat jelas, dimana mereka akan kesulitan melakukan pendataan presensi seluruh anggota KPM yang menghadiri agenda program kerja tersebut.
+</p>
 
-## why SIPKU? ##
+## Why SIPKU? ##
 
 dengan SIPKU kamu dapat dengan mudah melakukan presensi pada acara yang sedang kamu ikuti, serta mengetahui agenda acara apa saja yang telah kamu ikuti di organsisasi KPM. 
 
 ## Tujuan Kami ##
- 
+
+<p align="justify">
 Tujuan kami membuat SIPKU adalah ingin membantu para pengurus organisasi untuk mengetahui informasi terkait kehadiran setiap anggotanya pada agenda acara yang telah mereka buat. Kami yakin dengan adanya SIPKU, dapat mengefisiensi waktu pengurus organisasi dalam melakukan pendataan anggotanya terkait kehadiran mereka dalam agenda acara yang telah dibuat.
+</p>
 
 ## Feature :star2: ##
-
+<p align="justify">
 SIPKU menawarkan fitur yang dapat digunakan berdasarkan peran akun yang mengaksesnya. Pada SIPKU memiliki dua tipe akun yaitu admin dan User. SIPKU sendiri menggunakan pendekatan dimana admin yang memegang kendali penuh siapa saja yang dapat mengakses website SIPKU. Nantinya admin dapat melakukan pembuatan akun untuk seluruh anggota KPM UNJ sehingga dapat meningkatkan integritas serta memetakan penggunaan website yang lebih terstruktur. Kamu bisa melihat hal yang serupa pada website [Siakad UNJ](http://siakad.unj.ac.id/).
+</p>
 
 ### Admin ###
 
