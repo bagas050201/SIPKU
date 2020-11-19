@@ -119,7 +119,7 @@ SIPKU menawarkan fitur yang dapat digunakan berdasarkan peran akun yang mengakse
     <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/user/riwayat.png" height="400" align="center"></img>
 </p>
 
-#### :gem: Kamu bisa melihat lebih banyak desain mockup kami dari segi tampilan responsive [disini](https://github.com/bagas050201/SIPKU/tree/main/mockup) :gem: ####
+#### :gem: Kamu bisa melihat lebih banyak desain mockup kami dari segi tampilan mobile app [disini](https://github.com/bagas050201/SIPKU/tree/main/mockup) :gem: ####
 
 ## Contributors ##
 
