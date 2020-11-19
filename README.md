@@ -1,6 +1,6 @@
 ## Assignment 3 HCI
 - - - -
-:books: Laporan Kami Terkait Assignment 3 HCI : [Report](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw3)
+:books: Laporan Kami Terkait Assignment 3 HCI : [Disini](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw3)
 ## TEAM I ##
 
   1. Muhammad Bagas Pradana (1313618015)
