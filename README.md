@@ -2,7 +2,7 @@
 - - - -
 :books: Laporan Kami Terkait Assignment 3 HCI : [Disini](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw3)
 
-:memo: Hasil Report Writing kami bisa dilihat : [disini](https://github.com/bagas050201/SIPKU/blob/main/Final%20Report%20SIPKU/Report%20Assignment%203.pdf)
+:memo: Hasil Report Writing kami bisa dilihat : [Disini](https://github.com/bagas050201/SIPKU/blob/main/Final%20Report%20SIPKU/Report%20Assignment%203.pdf)
 ## TEAM I ##
 
   1. Muhammad Bagas Pradana (1313618015)
