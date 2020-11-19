@@ -70,8 +70,32 @@ SIPKU menawarkan fitur yang dapat digunakan berdasarkan peran akun yang mengakse
 
 
 ## Desain Kontrol ##
+### Login ###
+<p align="center"> 
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/admin/login.png" height="500" align="center"></img>
+</p>
 
 ### Admin ###
+
+* Dashboard
+<p align="center"> 
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/admin/admin-dahsboard.png" height="500" align="center"></img>
+</p>
+
+* Kelola User
+<p align="center"> 
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/admin/admin-kelola%20user.png" height="500" align="center"></img>
+</p>
+
+* Kelola Acara
+<p align="center"> 
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/admin/admin-kelola%20acara.png" height="500" align="center"></img>
+</p>
+
+* Daftar Hadir
+<p align="center"> 
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/admin/admin-daftar%20hadir.png" height="500" align="center"></img>
+</p>
 
 ### User ###
 
