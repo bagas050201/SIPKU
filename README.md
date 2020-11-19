@@ -69,35 +69,57 @@ SIPKU menawarkan fitur yang dapat digunakan berdasarkan peran akun yang mengakse
 </p>
 
 
-## Desain Kontrol ##
+## Desain Mockup ##
 ### Login ###
 <p align="center"> 
-    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/admin/login.png" height="500" align="center"></img>
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/admin/login.png" height="400" align="center"></img>
 </p>
 
 ### Admin ###
 
 * Dashboard
 <p align="center"> 
-    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/admin/admin-dahsboard.png" height="500" align="center"></img>
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/admin/admin-dahsboard.png" height="400" align="center"></img>
 </p>
 
 * Kelola User
 <p align="center"> 
-    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/admin/admin-kelola%20user.png" height="500" align="center"></img>
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/admin/admin-kelola%20user.png" height="400" align="center"></img>
 </p>
 
 * Kelola Acara
 <p align="center"> 
-    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/admin/admin-kelola%20acara.png" height="500" align="center"></img>
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/admin/admin-kelola%20acara.png" height="400" align="center"></img>
 </p>
 
 * Daftar Hadir
 <p align="center"> 
-    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/admin/admin-daftar%20hadir.png" height="500" align="center"></img>
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/admin/admin-daftar%20hadir.png" height="400" align="center"></img>
 </p>
 
 ### User ###
+
+* Dashboard
+<p align="center"> 
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/user/dashboard.png" height="400" align="center"></img>
+</p>
+
+* Profil
+<p align="center"> 
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/user/profil.png" height="400" align="center"></img>
+</p>
+
+* Isi Kehadiran
+<p align="center"> 
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/user/isi%20kehadiran.png" height="400" align="center"></img>
+</p>
+
+* Riwayat
+<p align="center"> 
+    <img src="https://github.com/bagas050201/SIPKU/blob/main/mockup/user/riwayat.png" height="400" align="center"></img>
+</p>
+
+### Kamu bisa melihat lebih banyak desain mockup kami dari segi tampilan responsive [disini](https://github.com/bagas050201/SIPKU/tree/main/mockup) ###
 
 ## Contributors ##
 
