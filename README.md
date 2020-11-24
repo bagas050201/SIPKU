@@ -19,6 +19,9 @@ SIPKU adalah sistem presensi berbasis website yang memiliki fungsi untuk melakuk
 <br>
 </h4>
 
+## PROGRESS PENGEMBANGAN ##
+
+- Pengembangan sebelumnya melalui repository github teams : [SIPKU Frontend](https://github.com/SIPKU/SIPKU-Frontend)
 
 ## Contributors ##
 
