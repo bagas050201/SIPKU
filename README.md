@@ -25,6 +25,7 @@ SIPKU adalah sistem presensi berbasis website yang memiliki fungsi untuk melakuk
 
 ### 27 November 2020 ###
 - Major Update 
+- add isi kehadiran
 
 ## Contributors ##
 
