@@ -32,7 +32,7 @@ KPM UNJ memiliki website pribadi yang mana bisa kamu akses disini (http://www.kp
 
 ## Why SIPKU? ##
 
-dengan SIPKU kamu dapat dengan mudah melakukan presensi pada acara yang sedang kamu ikuti, serta mengetahui agenda acara apa saja yang telah kamu ikuti di organsisasi KPM. 
+Dengan SIPKU kamu dapat dengan mudah melakukan presensi pada acara yang sedang kamu ikuti, serta mengetahui agenda acara apa saja yang telah kamu ikuti di organsisasi KPM. 
 
 ## Tujuan Kami ##
 
