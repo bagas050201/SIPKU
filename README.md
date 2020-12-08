@@ -27,6 +27,8 @@ SIPKU adalah sistem presensi berbasis website yang memiliki fungsi untuk melakuk
 - Major Update 
 - add isi kehadiran
 
+### 8 Desember 2020 ###
+- add Riwayat
 ## Contributors ##
 
 * **Muhammad Bagas Pradana** - *Ilmu Komputer Universitas Negeri Jakarta* - [bagas050201](https://github.com/bagas050201)
