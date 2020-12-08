@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>Profil</title>
+
+    <!-- Bootstrap CSS CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="../static/css/profil.css">
+
+    <!-- Font Awesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <!-- Sidebar sisi kiri -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <div class="row">
+                    <div class="col">
+                        
+                        <img class ="img1" src="../static/img/unj.png" alt="logo unj">
+                    </div>
+                    <div class="col">
+                        <img class="img2" src="../static/img/kpmunj.png" alt="logo KPM UNJ">
+                    </div>
+                </div>
+                <strong>SIPKU</strong>
+            </div>
+
+            <div class= "sidebar-type">
+                <h4>DASHBOARD</h4>
+                <strong>DB</strong>
+            </div>
+
+            <ul class="list-unstyled components">
+                <li>
+                    <a href="dashboard_user.html" aria-hidden="true">
+                        <i class="fas fa-home"></i>
+                        DASHBOARD
+                    </a>
+                </li>
+                <li class="active">
+                    <a href="#">
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                        PROFIL
+                    </a>
+                </li>
+                <li>
+                    <a href="isi_kehadiran.html">
+                        <i class="fa fa-book" aria-hidden="true"></i>
+                        ISI KEHADIRAN
+                    </a>
+                </li>
+                <li>
+                    <a href="riwayat.html">
+                        <i class="fa fa-history" aria-hidden="true"></i>
+                        RIWAYAT
+                    </a>
+                </li>
+                
+            </ul>
+        </nav>
+
+        <!-- Page Content  sisi kanan -->
+        <div id="content">
+
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+
+                    <button type="button" id="sidebarCollapse" class="btn btn-info" onclick="geser_navbar()">
+                        <i class="fas fa-align-left"></i>
+                        <span>Perkecil sidebar</span>
+                    </button>
+                    <img class ="img_foto" src="../static/img/unj.png" alt="Avatar logo unj">
+                    <!--untuk normal button-->
+                    <div class="dropdown">
+                        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style= "color: #1EC48C;">
+                            <span>Adi Rahman</span>
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                            <a class="dropdown-item" href="">Profil saya</a>
+                            <a class="dropdown-item" href="#">Log out</a>
+                        </div>
+                    </div>
+
+                    <!--untuk responsive button -->
+                    <button class="btn  d-inline-block d-lg-none ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <div class ="data_responsive">
+                        
+                            <img src="../static/img/kpmunj.png" style ="width:30px;" alt="logo KPM UNJ">
+                            <span>Adi Rahman</span>
+                        </div>
+                        
+                    </button>
+
+                    <!-- saat klik butttom responsive nantinya akan muncul tab ini kebawah-->
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="nav navbar-nav ml-auto">
+                            <li class="nav-item">
+                                <br>
+                                <a class="nav-link" href="#">Profil Saya</a>
+                                <hr>
+                            </li>
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Log out</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <!--breadcumb posisi tab-->
+            <nav aria-label="breadcrumb active">
+                <ol class="breadcrumb">
+                    <div class ="name_page">PROFIL</div>
+                    <li class="breadcrumb-item"><a href="dashboard_user.html">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Profil</li>
+                </ol>
+            </nav>
+            
+            <div></div>
+            <div class="line"></div>
+
+            <!-- kotak tempat data absensi muncul-->
+            <div class = "isi_data">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Profil Anda</h5>
+                            <hr>
+                            <img class ="img_foto_card" src="../static/img/kpmunj.png" alt="Avatar logo unj">
+                            <br>
+                            <br>
+                            <div class="nama_user">ADI RAHMAN</div>
+                            <div class="tipe_user"><p>Anggota</p></div>
+                            <div class="ganti_foto">
+                                <a href="#editEmployeeModal" class="edit" data-toggle="modal"><i class="fas fa-pencil-alt"></i> Ganti Foto</a></div>
+                            <!-- jika dari database : <p class="card-text">{{data.totalCount}}</p>-->
+                        </div>
+                    </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Ubah Data Profil</h5>
+                            <p>Pastikan identitas diisi dengan benar</p>
+                            <hr>
+
+                            <h6>Nomor Anggota</h6>
+                            <div class="data">1816002036</div>
+                            <br>
+                            <form>
+                                <div class="form-group">
+                                    <label for="name">Nama Lengkap</label>
+                                    <input class="form-control" type="text" placeholder="Masukan Nama Anda">
+                                </div>
+                                <div class="form-group">
+                                    <label for="name">Program Studi</label>
+                                    <input class="form-control" type="text" placeholder="Program Studi Anda Saat Ini">
+                                    
+                                </div>
+                                <div class="form-group">
+                                    <label for="name">Angkatan</label>
+                                    <input class="form-control" type="text" placeholder="Angkatan Anda">
+                                    
+                                </div>
+                                <button type="submit" class="btn btn-primary btn-form">Perbarui</button>
+                            </form>
+                            
+                            <!-- jika dari database : <p class="card-text">{{data.totalCount}}</p>-->
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!--modal ganti foto-->
+            <div id="editEmployeeModal" class="modal fade">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <form>
+                            <div class="modal-header">						
+                                <h4 class="modal-title">Edit foto profil</h4>
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                            </div>
+                            <div class="modal-body">					
+                                <div class="form-group">
+                                    <label>Upload a photo..</label>
+                                    <input type="file" accept="image/*" onchange="loadFile(event)">
+                                </div>
+                                <hr>
+                                <label>Preview photo :</label>
+                                <img id="output-image-profil"/>
+                            </div>
+                            <div class="modal-footer">
+                                <input type="button" class="btn btn-default" data-dismiss="modal" value="Cancel">
+                                <input type="submit" class="btn btn-info" value="Save">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <!-- garis panjang -->
+            <div class="line"></div>
+
+            <div class="footer">
+                <p>Copyright © Organized by KPM UNJ 2020</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery CDN - Slim version (=without AJAX) -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- Popper.JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('active');
+            });
+        });
+        
+        function geser_navbar(){
+            document.getElementsByClassName("dropdown").style.marginLeft = "1000px";
+            document.getElementsByClassName("breadcrumb").style.paddingRight = "1000px";
+            console.log("terklik")
+        }
+
+        //image preview disini
+        let loadFile = function(event) {
+        let output = document.getElementById('output-image-profil');
+        output.src = URL.createObjectURL(event.target.files[0]);
+        output.onload = function() {
+            URL.revokeObjectURL(output.src) // free memory
+        }
+        };
+    </script>
+</body>
+
+</html>
