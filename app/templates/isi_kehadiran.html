@@ -49,7 +49,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="profil.html">
                         <i class="fa fa-user" aria-hidden="true"></i>
                         PROFIL
                     </a>
@@ -61,7 +61,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="riwayat.html">
                         <i class="fa fa-history" aria-hidden="true"></i>
                         RIWAYAT
                     </a>
@@ -87,7 +87,7 @@
                             <span>Bagas Pradana</span>
                         </a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                            <a class="dropdown-item" href="#">Profil saya</a>
+                            <a class="dropdown-item" href="profil.html">Profil saya</a>
                             <a class="dropdown-item" href="#">Log out</a>
                             
                         </div>
@@ -108,7 +108,7 @@
                         <ul class="nav navbar-nav ml-auto">
                             <li class="nav-item">
                                 <br>
-                                <a class="nav-link" href="#">Profil Saya</a>
+                                <a class="nav-link" href="profil.html">Profil Saya</a>
                                 <hr>
                             </li>
                             
@@ -145,7 +145,8 @@
                                     <p>14-11-2020</p>
                                     <h5 class="card-title">SIDANG KENAIKAN GELAR APMM</h5>
                                     <h6>15.30-17.00</h6>
-                                    <br>
+                                    
+                                    
                                     <br>
                                     <!-- kalau mau tag a bisa pakai ini : <a href="#" class="btn btn-primary stretched-link">LIHAT DAFTAR HADIR</a>-->
                                     <input onclick="change()" type="button" value="HADIR" id="click_hadir"></input>
@@ -249,6 +250,7 @@
         });
         
 
+
         function change()
         {
             console.log("clicked")
@@ -256,6 +258,7 @@
             if (elem.value=="HADIR"){
                 elem.value = "Tanggapan sudah direkam";
                 alert("Kamu sudah melakukan presensi ^^");
+                
 
             }
         };
