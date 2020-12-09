@@ -52,6 +52,7 @@ span {
     color: #fff;
     background-color: rgb(52,1,204);
     border-color:rgb(52,1,204);
+    display:none;
 }
 /*button milik form submit*/
 .btn-form{
@@ -249,7 +250,7 @@ ul ul a {
 .img_foto{
     border-radius: 50%;
     width:40px;
-    margin-left:800px;
+    margin-left:955px;
     right:10px;
 }
 .img_foto_card{
@@ -412,6 +413,12 @@ ul ul a {
     .btn-form{
         
         margin-left:150px;
+    }
+    .btn-info {
+        color: #fff;
+        background-color: rgb(52,1,204);
+        border-color:rgb(52,1,204);
+        display:block;
     }
     
 }
