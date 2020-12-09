@@ -51,6 +51,7 @@ span {
     color: #fff;
     background-color: rgb(52,1,204);
     border-color:rgb(52,1,204);
+    display:none;
 }
 
 .btn-info:hover{
@@ -244,8 +245,8 @@ ul ul a {
 .img_foto{
     border-radius: 50%;
     width:40px;
-    margin-left:800px;
-    right:10px;
+    margin-left:955px;
+    right:0px;
 }
 .dropdown{
     margin-left: 0px;
@@ -606,5 +607,11 @@ table.table .avatar {
 
     .navbar-collapse .nav-item a{
         text-align: center;
+    }
+    .btn-info {
+        color: #fff;
+        background-color: rgb(52,1,204);
+        border-color:rgb(52,1,204);
+        display:block;
     }
 }
