@@ -52,6 +52,7 @@ span {
     color: #fff;
     background-color: rgb(52,1,204);
     border-color:rgb(52,1,204);
+    display:none;
 }
 .dropdown:hover{
     background-color:#1EC48C;
@@ -240,7 +241,7 @@ ul ul a {
 .img_foto{
     border-radius: 50%;
     width:40px;
-    margin-left:848px;
+    margin-left:1020px;
     right:10px;
 }
 
@@ -400,5 +401,11 @@ ul ul a {
 
     .navbar-collapse .nav-item a{
         text-align: center;
+    }
+    .btn-info {
+        color: #fff;
+        background-color: rgb(52,1,204);
+        border-color:rgb(52,1,204);
+        display: block;
     }
 }
