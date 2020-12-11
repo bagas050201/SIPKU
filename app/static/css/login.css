@@ -1,0 +1,179 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(../img/background_login.jpg);
+    background-size: 1600px;
+    
+}
+/*sisi kiri*/
+.text_content{
+    margin-left:50px;
+    margin-top:250px;
+}
+.kotak{
+    margin-left:100px;
+    margin-top:100px;
+    background-color: white;
+    height: 500px;
+    width: 600px;
+}
+.text_kiri{
+    margin-left:-10px;
+    font-size: 38px;
+    font-weight: 600;
+    text-align: center;
+}
+
+/*sisi kanan*/
+/*mengatur image kpm dan unj*/
+.form_login .img1{
+    margin-top:20px;
+    width: 130px;
+    margin-left:160px;
+    margin-bottom:50px;
+}
+.form_login .img2{
+    
+    width: 100px;
+    margin-top:20px;
+    margin-bottom:50px;
+}
+
+.form-group{
+    margin-left:135px;
+}
+
+.col-form-label{
+    margin-top:5px;
+    font-size:17px;
+}
+/*css input data*/
+.form-control{
+    height:50px;
+    width:270px;
+}
+
+/*button login*/
+
+.btn-success{
+    margin-left:128px;
+    width:270px;
+    }
+
+.forgot{
+    margin-top:10px;
+    margin-left:142px;
+    color:grey;
+    text-decoration: none;
+    font-weight: 500;
+}
+.forgot:hover{
+    text-decoration: none;
+    color: #1BB789;
+}
+
+.footer {
+    padding-top:10px;
+    font-weight: 600;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1BB789;
+    color: white;
+    text-align: center;
+    
+}
+
+.vertical-alignment-helper {
+    display:table;
+    height: 100%;
+    width: 100%;
+    pointer-events:none; /* This makes sure that we can still click outside of the modal to close it */
+}
+.vertical-align-center {
+    /* To center vertically */
+    display: table-cell;
+    vertical-align: middle;
+    pointer-events:none;
+}
+.modal-content {
+    /* Bootstrap sets the size of the modal in the modal-dialog class, we need to inherit it */
+    width:inherit;
+    max-width:inherit; /* For Bootstrap 4 - to avoid the modal window stretching full width */
+    height:inherit;
+    /* To center horizontally */
+    margin: 0 auto;
+    pointer-events: all;
+}
+
+@media (max-width: 768px) {
+    .text_content{
+        margin-left:0px;
+        margin-top:60px;
+    }
+    .text_kiri{
+        margin-left:-10px;
+        font-size: 30px;
+        font-weight: 600;
+        text-align: center;
+    }
+    .kotak{
+        
+        margin-left:35px;
+        margin-right:20px;
+        margin-top:50px;
+        background-color: white;
+        height: 420px;
+        width: 450px;
+    }
+
+    .form_login .img1{
+        margin-top:20px;
+        width: 110px;
+        margin-left:100px;
+        margin-bottom:10px;
+    }
+    .form_login .img2{
+        
+        width: 90px;
+        margin-top:20px;
+        margin-bottom:10px;
+    }
+    
+    .form-group{
+        margin-left:125px;
+        margin-bottom:2px;
+    }
+    
+    .col-form-label{
+        margin-top:5px;
+        font-size:15px;
+        
+    }
+    /*css input data*/
+    .form-control{
+        
+        height:40px;
+        width:200px;
+    }
+    
+    /*button login*/
+    
+    .btn-success{
+        margin-left:1px;
+        width:200px;
+        margin-top:15px;
+        }
+    
+    .forgot{
+        margin-top:5px;
+        margin-left:16px;
+        color:grey;
+        text-decoration: none;
+        font-weight: 500;
+    }
+    
+    
+}
