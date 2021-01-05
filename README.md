@@ -23,21 +23,6 @@ SIPKU adalah sistem presensi berbasis website yang memiliki fungsi untuk melakuk
 
 - Pengembangan sebelumnya melalui repository github teams : [SIPKU Frontend](https://github.com/SIPKU/SIPKU-Frontend)
 
-### 27 November 2020 ###
-- Major Update 
-- add isi kehadiran
-
-### 8 Desember 2020 ###
-- add Riwayat
-- add profil
-
-### 9 Desember 2020 ###
-- minor css
-- minor html
-- add js
-
-### 11 Desember 2020 ###
-- add login
 ## Contributors ##
 
 * **Muhammad Bagas Pradana** - *Ilmu Komputer Universitas Negeri Jakarta* - [bagas050201](https://github.com/bagas050201)
