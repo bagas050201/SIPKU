@@ -1,8 +1,3 @@
-## Assignment 3 HCI
-- - - -
-:books: Laporan Kami Terkait Assignment 3 HCI : [Disini](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw3)
-
-:memo: Hasil Report Writing kami bisa dilihat : [Disini](https://github.com/bagas050201/SIPKU/blob/main/Final%20Report%20SIPKU/Report%20Assignment%203.pdf)
 ## TEAM I ##
 
   1. Muhammad Bagas Pradana (1313618015)
@@ -122,6 +117,22 @@ SIPKU menawarkan fitur yang dapat digunakan berdasarkan peran akun yang mengakse
 </p>
 
 #### :gem: Kamu bisa melihat lebih banyak desain mockup kami dari segi tampilan mobile app [disini](https://github.com/bagas050201/SIPKU/tree/main/mockup) :gem: ####
+
+## Assignment 3 IMK
+- - - -
+:books: Laporan Kami Terkait Assignment 3 IMK : [Disini](https://github.com/bagas050201/Assignment-Interaksi-Manusia-dan-Komputer-113/tree/hw3)
+
+:memo: Hasil Report Writing kami bisa dilihat : [Disini](https://github.com/bagas050201/SIPKU/blob/main/Final%20Report%20SIPKU/Report%20Assignment%203.pdf)
+
+## Final Project IMK ##
+- - - -
+:blue_book: Final Project Report kami bisa dilihat : [Disini]()
+
+:office: Deployment Site dapat dilihat disini : 
+
+:key: Akun admin : `User ID :` `Password :`
+
+:octocat: Akun user (Akun milik salah satu user) : `User ID :` `Password :`
 
 ## Contributors ##
 
