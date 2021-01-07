@@ -126,9 +126,9 @@ SIPKU menawarkan fitur yang dapat digunakan berdasarkan peran akun yang mengakse
 
 ## Final Project IMK ##
 - - - -
-:blue_book: Final Project Report kami bisa dilihat : [Disini]()
+:blue_book: Final Project Report kami bisa dilihat : [Disini](https://github.com/bagas050201/SIPKU/blob/main/Final%20Project%20Report%20SIPKU/Final%20Project%20Report%20SIPKU.pdf)
 
-:office: Deployment Site : 
+:office: Deployment Site : [http://sipkukpm.pythonanywhere.com](http://sipkukpm.pythonanywhere.com/login/)
 
 ## Contributors ##
 
