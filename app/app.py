@@ -8,6 +8,6 @@ app.config["SECRET_KEY"]="kpm2021"
 app.register_blueprint(login)
 app.register_blueprint(dashboard)
 
-
+#run app
 if __name__ == "__main__":
     app.run()
