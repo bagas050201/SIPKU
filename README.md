@@ -128,11 +128,7 @@ SIPKU menawarkan fitur yang dapat digunakan berdasarkan peran akun yang mengakse
 - - - -
 :blue_book: Final Project Report kami bisa dilihat : [Disini]()
 
-:office: Deployment Site dapat dilihat disini : 
-
-:key: Akun admin : `User ID :` `Password :`
-
-:octocat: Akun user (Akun milik salah satu user) : `User ID :` `Password :`
+:office: Deployment Site : 
 
 ## Contributors ##
 
